@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shaunak-Pandya](https://github.com/Shaunak-Pandya)
 
-- 📝 I regularly write articles on [https://shaunakpandya.tech](https://shaunakpandya.tech)
+- 📝 I regularly write articles on [https://shaunakpandya.me](https://shaunakpandya.me)
 
 - 💬 Ask me about **Python, Java, JS, Functional Programming, OOPS, Agile Methodology**
 
-- 📫 How to reach me **hello@shaunakpandya.tech**
+- 📫 How to reach me **ping@shaunakpandya.me**
 
 - ⚡ My Fantacy **I love to night rides, trying every single food cusine,bonding with fam and constants**
 
