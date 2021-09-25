@@ -5,16 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaunak-pandya" alt="shaunak-pandya" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shaunak-Pandya](https://github.com/Shaunak-Pandya)
 
-- 📝 I regularly write articles on [https://shaunakpandya.me](https://shaunakpandya.me)
-
-- 💬 Ask me about **Python, Java, JS, Functional Programming, OOPS, Agile Methodology**
+- 💬 Ask me about **JS, Multi-Paradigm Programming, OOPS, Agile Methodology**
 
 - 📫 How to reach me **ping@shaunakpandya.me**
-
+- 📝 I regularly write articles on [https://shaunakpandya.me](https://shaunakpandya.me)
+- 👨‍💻 All of my projects are available at [https://github.com/Shaunak-Pandya](https://github.com/Shaunak-Pandya)
 - ⚡ My Fantacy **I love to night rides, trying every single food cusine,bonding with fam and constants**
 
 <h3 align="left">Connect with me:</h3>
