@@ -7,12 +7,11 @@
 
 
 
-- 💬 Ask me about **JS, Multi-Paradigm Programming, OOPS, Agile Methodology**
+- 💬 Passionate about **JS, Multi-Paradigm Programming, OOPS, Agile Methodology**
 
-- 📫 How to reach me **ping@shaunakpandya.me**
-- 📝 I regularly write articles on [https://shaunakpandya.me](https://shaunakpandya.me)
+- 📝 I regularly write articles on [https://shaunak.is-a.dev](https://shaunak.is-a.dev)
 - 👨‍💻 All of my projects are available at [https://github.com/Shaunak-Pandya](https://github.com/Shaunak-Pandya)
-- ⚡ My Fantacy **I love to night rides, trying every single food cusine,bonding with fam and constants**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
