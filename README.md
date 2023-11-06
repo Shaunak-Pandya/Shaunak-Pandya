@@ -7,9 +7,9 @@
 
 
 
-- 💬 Passionate about **JS, Multi-Paradigm Programming, OOPS, Agile Methodology**
+- 💬 Passionate about **Data Engineering, Apache Spark, Apache AirFlow, Agile Methodology**
 
-- 📝 I regularly write articles on [https://shaunak.is-a.dev](https://shaunak.is-a.dev)
+- 📝 I write articles on [https://shaunak.is-a.dev](https://shaunak.is-a.dev)
 - 👨‍💻 All of my projects are available at [https://github.com/Shaunak-Pandya](https://github.com/Shaunak-Pandya)
 
 
